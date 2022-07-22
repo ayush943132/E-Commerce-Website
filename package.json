@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "firebase": "^9.6.0",
+    "firebase-tools": "^9.23.0",
+    "react-currency-format": "^1.0.0",
+    "react-router-dom": "^6.3.0"
+  }
+}
